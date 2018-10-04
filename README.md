@@ -1,2 +1,2 @@
 # typo error
-  - echo "# tizen-contribution" >> README.md
+  - https://github.com/Samsung/TizenFX/pull/504
