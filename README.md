@@ -10,7 +10,7 @@
 6. https://github.com/hhes0225/tizen-contribution/blob/master/tizen.net.sdk-signing-tpk.md
 
 # setting up development environment
-build gear-racing car :
+1. build gear-racing car :
 https://github.com/hhes0225/tizen-contribution/blob/master/build%20gear-racing%20car.png
-build nnfw : 
+2. build nnfw : 
 https://github.com/hhes0225/tizen-contribution/blob/master/build%20%20nnfw.JPG
