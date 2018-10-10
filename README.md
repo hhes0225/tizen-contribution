@@ -11,6 +11,4 @@
 
 # setting up development environment
 1. build gear-racing car :
-https://github.com/hhes0225/tizen-contribution/blob/master/build%20gear-racing%20car.png
-2. build nnfw : 
-https://github.com/hhes0225/tizen-contribution/blob/master/build%20%20nnfw.JPG
+https://github.com/hhes0225/tizen-contribution/blob/master/%ED%95%9C%ED%9D%AC%EC%84%A0_gear-racing-car.JPG
